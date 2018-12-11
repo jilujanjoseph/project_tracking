@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employe_id: 1
+  emp_name: MyString
+  email_id: MyString
+  phone_no: 1
+  address: MyText
+  pan_no: 1
+  passport_no: 1
+  passport_expry_date: 2018-12-11
+  date_of_joining: 2018-12-11
+  user_id: 
+
+two:
+  employe_id: 1
+  emp_name: MyString
+  email_id: MyString
+  phone_no: 1
+  address: MyText
+  pan_no: 1
+  passport_no: 1
+  passport_expry_date: 2018-12-11
+  date_of_joining: 2018-12-11
+  user_id: 
